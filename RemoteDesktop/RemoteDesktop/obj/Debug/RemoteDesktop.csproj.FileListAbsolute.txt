@@ -1,0 +1,7 @@
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csprojAssemblyReference.cache
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.CoreCompileInputs.cache
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+D:\惠特\Launch\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
